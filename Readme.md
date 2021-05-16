@@ -33,6 +33,12 @@
    ```JS
    YELP_API_KEY="YELP_KEY_HERE"
    ```  
+
+### Demo
+
+1. Demo vide is located at /demo/video.mp4
+2. Debug apk is located at /demo/YelpProto.apk
+
 ### Known Bugs   
 
 1. If a Network/API error occurs, moving between screens would trigger error dialog even if it's not valid anymore. 
