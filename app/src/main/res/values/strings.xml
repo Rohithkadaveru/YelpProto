@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">YelpProto</string>
+    <string name="search">Search</string>
+    <string name="location_default_ca">Couldn\'t determine location. Defaulting to california</string>
+    <string name="location_permission_granted">Location permission granted</string>
+    <string name="directions">Directions</string>
+    <string name="status">"Status: "</string>
+    <string name="website">WebSite</string>
+    <string name="call">Call</string>
+    <string name="location_permission_required">Location Permission Required</string>
+    <string name="location_permission_required_message">Uses your location while you\'re using the app to search for nearby businesses and to give you local recommendations</string>
+    <string name="settings">Settings</string>
+    <string name="ok">OK</string>
+    <string name="no_businesses_found">No businesses found</string>
+    <string name="try_different_word">Try searching a different word</string>
+    <string name="generic_error_title">Something Unexpected happened</string>
+    <string name="generic_error_message">Please try again later</string>
+</resources>
